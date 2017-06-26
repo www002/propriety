@@ -18,7 +18,7 @@
   left:0px;
   top:0px;
   width:360px;
-  height:680px;
+  height:620px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
   box-sizing:border-box;
@@ -36,13 +36,13 @@
   left:0px;
   top:0px;
   width:360px;
-  height:680px;
+  height:620px;
 }
 #u28 {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:332px;
+  top:302px;
   width:356px;
   visibility:hidden;
   word-wrap:break-word;
@@ -458,7 +458,7 @@
   border-width:0px;
   position:absolute;
   left:0px;
-  top:641px;
+  top:580px;
   width:360px;
   height:40px;
 }
